@@ -4,6 +4,7 @@ body {
 	background-color: #61122f;
 	background-image: url('../images/main/wood_bgrnd.jpg');
 	font-family: 'Oxygen', sans-serif;
+	overflow-x: hidden;
 }
 /** Header **/
 #header-nav {
