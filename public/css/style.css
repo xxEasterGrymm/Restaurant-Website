@@ -149,12 +149,12 @@ body {
 }
 
 #menu-tile {
-	background: url('../images/menu-tile.jpg') no-repeat;
+	background: url('../images/main/menu-tile.jpg') no-repeat;
 	background-position: center;
 }
 
 #specials-tile {
-	background: url('../images/specials-tile.jpg') no-repeat;
+	background: url('../images/main/specials-tile.jpg') no-repeat;
 	background-size: 100% 100%;
 	background-position: center;
 }
